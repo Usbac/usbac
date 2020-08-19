@@ -8,8 +8,6 @@ I believe in the power of open source software, you can join me in this adventur
 
 In my free time I make educational [Youtube](https://www.youtube.com/channel/UCeUQR6IkewQvH8RCKng52Tw) videos about software development in my native language Spanish.
 
-Bilingual 🇪🇸 / 🇬🇧.
-
 ### Languages and technologies
 
 <p>
