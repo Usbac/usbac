@@ -12,10 +12,12 @@ Bilingual 🇪🇸 / 🇬🇧.
 
 ### Languages and technologies
 
-<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/>
-<img src="https://img.icons8.com/color/40/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
+<p>
+    <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/color/40/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
+</p>
 
 _Unicorns are awesome._
