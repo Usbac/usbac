@@ -8,14 +8,6 @@ I believe in the power of open source software, you can join me in this adventur
 
 In my free time I make educational [Youtube](https://www.youtube.com/channel/UCeUQR6IkewQvH8RCKng52Tw) videos about software development in my native language Spanish.
 
-### Languages and technologies
-
-<p>
-    <img src="https://img.icons8.com/color/128/000000/c-programming.png" width="60"/>
-    <img src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png" width="60"/>
-    <img src="https://img.icons8.com/officexs/128/000000/php-logo.png" width="60"/>
-    <img src="https://img.icons8.com/color/128/000000/javascript.png" width="60"/>
-    <img src="https://img.icons8.com/color/128/000000/nodejs.png" width="60"/>
-</p>
+I focus on web development and everything related to the C programming language.
 
 _Unicorns are awesome._
